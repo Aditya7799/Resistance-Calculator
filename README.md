@@ -1,5 +1,5 @@
 # Resistance-Calculator
-A pythhon Script to calculate equivalent resistance of a given purely-resistive circuit
+A python Script to calculate equivalent resistance of a given purely-resistive circuit.
 
 
 ## Python Libraries Required
